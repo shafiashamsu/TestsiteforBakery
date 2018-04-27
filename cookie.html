@@ -1,0 +1,11 @@
+---
+layout: default
+title: cookie Page 
+---
+{% for cookie in site.cookies %}
+  <div class="container">
+    <h2 class="spacing"><a href="{{ cookie.url }}">{{ cookie.title }}</a></h2>
+  </div>
+{% endfor %}
+
+{% include newsletter.html %}
