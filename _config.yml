@@ -1,6 +1,6 @@
 
-baseurl: "/TestingSite" 
-url: "https://github.com/shafiashamsu/TestingSite" 
-show_drafts: true
+baseurl: "/TestsiteforBakery" 
+url: "https://github.com/shafiashamsu/TestsiteforBakery/"
+"show_drafts: true
 collections :
   cookies :
