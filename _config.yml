@@ -1,5 +1,5 @@
 
-baseurl: "/TestingSite" 
+baseurl: "/TestsiteforBakery" 
 url: "https://github.com/shafiashamsu/TestsiteforBakery/"
 show_drafts: true
 collections :
